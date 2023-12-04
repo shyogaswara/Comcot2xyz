@@ -10,3 +10,6 @@ the output of zmax will be saved in meters meanwhile ETA or TTT in seconds
 __version__ = '0.12.2023'
 
 __author__ = 'shyogaswara'
+
+As for the comcot software itself, you may refer to 
+https://github.com/AndybnACT/comcot-gfortran
